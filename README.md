@@ -4,7 +4,7 @@
 
 Personal webpage
 
-![](https://drive.google.com/uc?export=view&id=1lZZLIc3gY8uDCpipKFx94aWDBP6qaW-i)
+!My resume is [here](https://drive.google.com/file/d/1jfIT0uRaMLu7azkPJU2MCn0K7QZQz-xU/view?usp=sharing)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
