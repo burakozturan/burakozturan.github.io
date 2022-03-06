@@ -15,22 +15,22 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 This web-site serve as professional updates.
 
-[comment]# Header 1
-[comment]## Header 2
-[comment]### Header 3
+[comment]:# Header 1
+[comment]:## Header 2
+[comment]:### Header 3
 
-[comment]- Bulleted
-[comment]- List
+[comment]:- Bulleted
+[comment]:- List
 
-[comment]1. Numbered
-[comment]2. List
+[comment]:1. Numbered
+[comment]:2. List
 
-[comment]**Bold** and _Italic_ and `Code` text
+[comment]:**Bold** and _Italic_ and `Code` text
 
-[comment][Link](url) and ![](https://drive.google.com/uc?export=view&id=1mreKPkgjmj_PwOa4RjyoCIpw-eWoTJSu)
+[comment]:[Link](url) and ![](https://drive.google.com/uc?export=view&id=1mreKPkgjmj_PwOa4RjyoCIpw-eWoTJSu)
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+[comment]:For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 [comment]: ### Jekyll Themes
 
