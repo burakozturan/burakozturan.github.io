@@ -13,21 +13,21 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
+This web-site serve as professional updates.
 
-# Header 1
-## Header 2
-### Header 3
+[comment]# Header 1
+[comment]## Header 2
+[comment]### Header 3
 
-- Bulleted
-- List
+[comment]- Bulleted
+[comment]- List
 
-1. Numbered
-2. List
+[comment]1. Numbered
+[comment]2. List
 
-**Bold** and _Italic_ and `Code` text
+[comment]**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![](https://drive.google.com/uc?export=view&id=1mreKPkgjmj_PwOa4RjyoCIpw-eWoTJSu)
+[comment][Link](url) and ![](https://drive.google.com/uc?export=view&id=1mreKPkgjmj_PwOa4RjyoCIpw-eWoTJSu)
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
