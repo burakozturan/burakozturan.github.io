@@ -14,7 +14,7 @@ My current research revolves around the converging and diverging patterns of COV
 
 My resume is [here](https://drive.google.com/file/d/1jfIT0uRaMLu7azkPJU2MCn0K7QZQz-xU/view?usp=sharing)
 
-All my studies can be found here[here](https://socio-lab.netlify.app/#blog)
+All of my former studies can be found [here](https://socio-lab.netlify.app/#blog)
 
 
 
