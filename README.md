@@ -7,14 +7,14 @@
 [comment]: # You can use the [editor on GitHub](https://github.com/burakozturan/burakozturan.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 I am a PhD Student at Network Science Institute, Northeastern, advised by [Prof. David Lazer](https://lazerlab.net/)
-I am computational social science enthusiast. I use digital trace data by leveraging social networks and NLP to examine digital trace data.
+I investigate digital trace data by leveraging computational social science methods, especially social networks and NLP, to understand online human behavior. 
 
-His current research revolves around the converging and diverging patterns of COVID-19 disinformation networks across social media platforms. Before joining the Network Sciences Institute, Burak completed his master's degree in Data Science (from Konstanz University) with his thesis titled "The COVID-19 Infodemics on Turkish Twittersphere". He has been a data-scientists in the GMF-supported project that measured the elite public opinion on Turkish-American Relations
-
-
+My current research revolves around the converging and diverging patterns of COVID-19 disinformation networks across social media platforms. Before joining the Network Sciences Institute, I completed  master's degree in Data Science from Konstanz University with  thesis titled "The COVID-19 Infodemics on Turkish Twittersphere". I have been a data-scientists in the GMF-supported project that measured the elite public opinion on Turkish-American Relations.
 
 
 My resume is [here](https://drive.google.com/file/d/1jfIT0uRaMLu7azkPJU2MCn0K7QZQz-xU/view?usp=sharing)
+
+All my studies can be found here[here](https://socio-lab.netlify.app/#blog)
 
 
 
