@@ -6,6 +6,9 @@
 
 [comment]: # You can use the [editor on GitHub](https://github.com/burakozturan/burakozturan.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
+![](https://drive.google.com/uc?export=view&id=1Tgmjk4jF3hguGgzcvFV5XkIR3sBWErax)
+
+
 I am a PhD Student at Network Science Institute, Northeastern, advised by [Prof. David Lazer](https://lazerlab.net/)
 I investigate digital trace data by leveraging computational social science methods, especially social networks and NLP, to understand online human behavior. 
 
