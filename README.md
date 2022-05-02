@@ -6,7 +6,8 @@
 
 [comment]: # You can use the [editor on GitHub](https://github.com/burakozturan/burakozturan.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-![](https://drive.google.com/uc?export=view&id=1Tgmjk4jF3hguGgzcvFV5XkIR3sBWErax)
+![](https://drive.google.com/uc?export=view&id=1iurYXTHi8eCG2VYm3TBHuKx2DUa2DZu9)
+
 
 
 I am a PhD Student at Network Science Institute, Northeastern, advised by [Prof. David Lazer](https://lazerlab.net/)
