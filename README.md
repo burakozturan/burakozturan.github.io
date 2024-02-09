@@ -1,14 +1,11 @@
 ## Welcome 
 
-
-
-[comment]:#![](https://drive.google.com/uc?export=view&id=1iurYXTHi8eCG2VYm3TBHuKx2DUa2DZu9)
-
 [comment]: # You can use the [editor on GitHub](https://github.com/burakozturan/burakozturan.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 [comment]: #![](https://drive.google.com/uc?export=view&id=1iurYXTHi8eCG2VYm3TBHuKx2DUa2DZu9)
 
 ![](https://drive.google.com/uc?export=view&id=1XA_i2PV8I0R0XMJuorMoW2-06OC9HqeO)
+
 
 I am a PhD Student at Network Science Institute, Northeastern, advised by [Prof. David Lazer](https://lazerlab.net/)
 I investigate digital trace data by leveraging computational social science methods, especially social networks and NLP, to understand online human behavior. 
