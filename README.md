@@ -9,4 +9,4 @@ My current research revolves around the converging and diverging patterns of COV
 My resume is [here](https://drive.google.com/file/d/1jfIT0uRaMLu7azkPJU2MCn0K7QZQz-xU/view?usp=sharing)
 All of my former studies can be found [here](https://socio-lab.netlify.app/#blog)
 
-[comment]: # You can use the [editor on GitHub](https://github.com/burakozturan/burakozturan.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+[comment]: (You can use the [editor on GitHub](https://github.com/burakozturan/burakozturan.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.)
