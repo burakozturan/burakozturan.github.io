@@ -1,8 +1,5 @@
----
 theme: jekyll-theme-cayman
 title: Burak's homepage
 description: Bookmark this to keep an eye on my project updates!
-navigation:
-  - title: "About"
-    url: /about/
----
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://username.github.io" # the base hostname & protocol for your site
