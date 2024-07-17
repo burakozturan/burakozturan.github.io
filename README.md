@@ -9,7 +9,7 @@ navigation:
 
 ## Welcome 
 
-![My Photo](https://drive.google.com/uc?export=view&id=1XA_i2PV8I0R0XMJuorMoW2-06OC9HqeO)
+<img src="https://drive.google.com/uc?export=view&id=1XA_i2PV8I0R0XMJuorMoW2-06OC9HqeO" alt="My Photo" width="300" height="300">
 
 I am a PhD Student at Network Science Institute, Northeastern, advised by [Prof. David Lazer](https://lazerlab.net/)
 I investigate digital trace data by leveraging computational social science methods, especially social networks and NLP, to understand online human behavior. 
