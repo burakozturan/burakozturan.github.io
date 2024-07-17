@@ -1,7 +1,5 @@
 ## Welcome 
 
-<img src="https://drive.google.com/uc?export=view&id=1XA_i2PV8I0R0XMJuorMoW2-06OC9HqeO" alt="My Photo" class="custom-size">
-
 I am a PhD Student at Network Science Institute, Northeastern, advised by [Prof. David Lazer](https://lazerlab.net/)
 I investigate digital trace data by leveraging computational social science methods, especially social networks and NLP, to understand online human behavior. 
 My current research revolves around the converging and diverging patterns of COVID-19 disinformation networks across social media platforms. Before joining the Network Sciences Institute, I completed a master's degree in Data Science from Konstanz University with a thesis titled "The COVID-19 Infodemics on Turkish Twittersphere". I have been a data-scientist in the GMF-supported project that measured the elite public opinion on Turkish-American Relations.
