@@ -1,12 +1,3 @@
----
-theme: jekyll-theme-cayman
-title: Burak's homepage
-description: Bookmark this to keep an eye on my project updates!
-navigation:
-  - title: "About"
-    url: /about/
----
-
 ## Welcome 
 
 <img src="https://drive.google.com/uc?export=view&id=1XA_i2PV8I0R0XMJuorMoW2-06OC9HqeO" alt="My Photo" class="custom-size">
