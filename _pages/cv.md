@@ -11,37 +11,36 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Network Science, Northeastern University, 2026 (expected)
+* M.Sc. in Social and Economic Data Science, University of Konstanz, 2021
+* B.A. in Economics, Boğaziçi University, 2018
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2021 - Present: PhD Researcher
+  * Northeastern University
+  * Focus: Digital Polarization, Misinformation, Political Behavior
+  * Supervisor: Prof. David Lazer
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2020: Project Manager and Data Scientist
+  * German Marshall Fund
+  * Duties: Curated and analyzed data on Turkish-American relations
+  
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2017: Research Intern
+  * The Economic Policy Research Foundation of Turkey (TEPAV)
+  * Duties: Estimated Turkiye’s GDP using night lights data
+  
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python, R, SQL, AWS Cloud Computing
+* Network analysis, quantitative research, data visualization
+  * Gephi
+  * PySpark
+* Multilingual: Turkish (native), English (C2), Arabic (B2), German (B1)
 
-Publications
+Projects
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
@@ -53,12 +52,6 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
