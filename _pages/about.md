@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-**About Me**
+
 
 I am Burak Özturan, a PhD candidate in Network Science at Northeastern University, working under the supervision of Prof. David Lazer. My research lies at the intersection of network theory, computational social science, and political behavior, with a focus on understanding emerging social phenomena on digital platforms. I am particularly interested in how individual, social, and algorithmic preferences drive the spread of misinformation and polarization, shaping public discourse in complex ways.
 
