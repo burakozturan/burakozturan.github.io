@@ -3,8 +3,10 @@ _site/
 
 # Ignore the directory for local files during development
 local/
+
 # Ignore a specific publication file
 _publications/2009-10-01-paper-title-number-1.md
+
 # Ignore the Gemfile that is generated
 Gemfile.lock
 
