@@ -6,6 +6,7 @@ permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: ''
 date: 2024-07-19
 status: "Presented"  # Options: Published, Presented, Under Review
+venue: 'IC2S2-2024'
 ---
 venue: 'IC2S2-2024'
 #paperurl: 'http://academicpages.github.io/files/paper3.pdf'
