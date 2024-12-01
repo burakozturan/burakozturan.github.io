@@ -8,10 +8,7 @@ date: 2024-07-19
 status: "Presented"  # Options: Published, Presented, Under Review
 venue: 'IC2S2-2024'
 ---
-venue: 'IC2S2-2024'
-#paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-#citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of #Bugs</i>. 1(3).'
----
+
 
 Social media platforms like Twitter/X have the potential to empower ordinary individuals and marginalized groups to participate in democratic deliberation. However, in practice, the information ecosystem is highly concentrated, with a small group of users and domains dominating the landscape. This study defines the extent of this concentration across various topics and platform affordances and examines the demographics of users who dominate the ecosystem.
 
