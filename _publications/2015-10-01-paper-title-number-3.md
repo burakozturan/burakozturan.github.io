@@ -4,6 +4,7 @@ title: "The Musk Effect:The Musk Effect: Declining Information Quality Under New
 category: manuscripts
 #permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'This paper is under review at Harvard Misinformation Review.'
+status: 'Under Review'
 date: 2024-10-01
 #venue: 'Journal 1'
 #slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
