@@ -1,6 +1,6 @@
 ---
 title: "The Musk Effect:The Musk Effect: Declining Information Quality Under New Platform Governance"
-collection: publications
+#collection: publications
 category: manuscripts
 #permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'This paper is under review at Harvard Misinformation Review.'
