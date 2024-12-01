@@ -6,7 +6,7 @@ permalink: /publication/2024-02-20-polcomm-apsa-2024-preconference
 excerpt: ''
 date: 2024-09-01
 status: "Presented"
-venue: "PolComm APSA 2024 Pre-Conference"
+venue: "APSA-2024 and PolComm APSA 2024 Pre-Conference"
 ---
 
-At the PolComm APSA 2024 Pre-Conference, this research explored segregation in online networks, emphasizing the role of demographic and political variables in shaping patterns of interaction and exposure to diverse information on digital platforms.
+At the APSA-2024 and PolComm APSA 2024 Pre-Conference, this research explored segregation in online networks, emphasizing the role of demographic and political variables in shaping patterns of interaction and exposure to diverse information on digital platforms.
