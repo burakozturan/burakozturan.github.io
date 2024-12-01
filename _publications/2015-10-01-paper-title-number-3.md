@@ -1,5 +1,5 @@
 ---
-title: "The Musk Effect:The Musk Effect: Declining Information Quality Under New Platform Governance"
+title: "The Musk Effect: Declining Information Quality Under New Platform Governance"
 #collection: publications
 category: manuscripts
 #permalink: /publication/2015-10-01-paper-title-number-3
