@@ -33,11 +33,11 @@ Research Experience
   
 Skills
 ======
-* **Programming:** Python, R, SQL, AWS Cloud Computing  
-* **Data Analysis:** Network analysis, quantitative research, data visualization  
-  * Tools: Gephi, PySpark  
+* **Programming:** Python, R, SQL
+* **Libraries and Frameworks:** Apache Spark, TensorFlow, Keras, PyTorch, Graph-tool, NetworkX,  Git, AWS, APIs, LangChain
+* **Statistical Methods:** Graph Neural Networks, Machine Learning, Social Network Analysis, Statistical Inference
 * **Languages:**  
-  * Turkish (native), English (C2), Arabic (B2), German (B1) 
+  * Turkish (native), English (Fluent), Arabic (Advanced), German (Intermediate) 
 
 
   
