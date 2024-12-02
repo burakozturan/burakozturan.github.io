@@ -9,42 +9,37 @@ redirect_from:
 
 {% include base_path %}
 
+
+
+Research Interests
+======
+Computational social science, network dynamics, misinformation, political communication, machine learning, and the societal impact of digital platforms. Special focus on analyzing large-scale data to understand youth experiences, civic discourse, and the broader implications for democracy.
+
+
 Education
 ======
 * Ph.D in Network Science, Northeastern University, 2026 (expected)
 * M.Sc. in Social and Economic Data Science, University of Konstanz, 2021
 * B.A. in Economics, Boğaziçi University, 2018
 
-Work experience
+Research Experience
 ======
-* 2021 - Present: PhD Researcher
-  * Northeastern University
-  * Focus: Digital Polarization, Misinformation, Political Behavior
-  * Supervisor: Prof. David Lazer
-
-* 2020: Project Manager and Data Scientist
-  * German Marshall Fund
-  * Duties: Curated and analyzed data on Turkish-American relations
-  
-
-* Summer 2017: Research Intern
-  * The Economic Policy Research Foundation of Turkey (TEPAV)
-  * Duties: Estimated Turkiye’s GDP using night lights data
+<ul>
+  {% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}
+</ul>
   
   
 Skills
 ======
-* Python, R, SQL, AWS Cloud Computing
-* Network analysis, quantitative research, data visualization
-  * Gephi
-  * PySpark
-* Multilingual: Turkish (native), English (C2), Arabic (B2), German (B1)
+* **Programming:** Python, R, SQL, AWS Cloud Computing  
+* **Data Analysis:** Network analysis, quantitative research, data visualization  
+  * Tools: Gephi, PySpark  
+* **Languages:**  
+  * Turkish (native), English (C2), Arabic (B2), German (B1) 
 
-Projects
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
   
 Talks
 ======
