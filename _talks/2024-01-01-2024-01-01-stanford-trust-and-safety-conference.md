@@ -4,7 +4,7 @@ collection: talks
 type: Talk
 permalink: /talks/2024-01-01-stanford-trust-and-safety-conference
 venue: "Stanford Trust and Safety Conference"
-date: 2024-01-01
+date: 2024-09-27
 location: "Stanford, CA"
 ---
 
