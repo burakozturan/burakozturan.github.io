@@ -6,6 +6,7 @@ permalink: /publication/2024-02-20-polcomm-apsa-2024-preconference
 excerpt: ''
 date: 2024-09-01
 status: "Presented"
+slidesurl: 'http://academicpages.github.io/files/APSA 2024_Echo_Burak.pdf'
 venue: "APSA-2024 and PolComm APSA 2024 Pre-Conference"
 ---
 
