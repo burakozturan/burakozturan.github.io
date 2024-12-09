@@ -3,7 +3,7 @@ title: "The Musk Effect: Changes in Misinformation and Partisan Composition"
 collection: publications
 category: conferences
 #permalink: /publication/2024-01-01-stanford-trust-and-safety-conference
-slidesurl: 'http://academicpages.github.io/files/Burak_Trust_Safety.pdf'
+slidesurl: 'http://burakozturan.github.io/files/Burak_Trust_Safety.pdf'
 excerpt: ''
 date: 2024-09-27
 status: "Presented"
