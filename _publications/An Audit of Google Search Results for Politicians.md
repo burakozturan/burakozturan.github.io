@@ -1,5 +1,5 @@
 ---
-title: "Google Search"
+title: "An Audit of Google Search Results for Politicians"
 collection: publications
 category: conferences
 permalink: /publication/2010-10-01-paper-title-number-2
