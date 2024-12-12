@@ -4,6 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/An Audit of Google Search Results for Politicians.md
 excerpt: ''
+status: 'Collaborated'
 date: 2024-01-01
 venue: 'IC2S2-2024 and APSA-2024'
 
