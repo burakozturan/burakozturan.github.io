@@ -2,7 +2,7 @@
 title: "An Audit of Google Search Results for Politicians"
 collection: publications
 category: conferences
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: /publication/An Audit of Google Search Results for Politicians.md
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2024-10-01
 venue: 'IC2S2-2024 and APSA-2024'
