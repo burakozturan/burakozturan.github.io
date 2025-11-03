@@ -12,7 +12,7 @@ You can view or download my CV below.
 <iframe 
   src="/files/Burak_Ozturan_CV.pdf" 
   width="100%" 
-  height="900px"
+  height="1200px"
   style="border:none;">
 </iframe>
 
