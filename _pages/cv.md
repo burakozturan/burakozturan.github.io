@@ -4,6 +4,7 @@ permalink: /cv/
 layout: archive
 author_profile: true
 ---
+
 <p style="margin-bottom: 1em;">
 You can view or download my CV below.
 </p>
