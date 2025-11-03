@@ -1,6 +1,7 @@
 ---
 title: "Declining Information Quality under New Platform Governance"
 collection: publications
+category: manuscripts
 permalink: /publication/declining-information-quality/
 excerpt: "Finds that information quality declined following changes in platform governance under new ownership."
 date: 2025-03-01
